@@ -1,0 +1,145 @@
+.third-img{
+  width: 800px;
+  height: 455.5px;
+}
+.sec-page{
+  background-color: #fffce6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  padding-bottom: 66px;
+
+}
+.donation-div{
+  margin-top: 50px;
+}
+.content-name-line{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: gray;
+  font-weight: bold;
+  letter-spacing: 3px;
+
+}
+.content-head-div{
+ 
+}
+.content-head{
+  font-size: 56px;
+  width: 600px;
+  text-align: center;
+  line-height: 70px;
+  tab-size: 4;
+}
+.content-discription{
+  font-size: 22px;
+  width: 750px;
+  text-align: center;
+  line-height: 36px;
+  tab-size: 5px;
+}
+.third-img-four{
+  padding-top: 20px;
+  height: 650px;
+}
+.last-head{
+  font-weight: bolder;
+  width: 550px;
+  text-align: center;
+  font-size: 56px;
+}
+.rounded-num-div{
+  display: flex;
+  width: 40px;
+  height: 40px;
+  border-style: solid;
+  border-width: 2.5px;
+  border-color: rgb(236, 222, 26);
+  border-radius: 25px;
+  
+  
+  align-items: center;
+  justify-content: center;
+}
+.number-notation-div{
+  display: flex;
+
+  justify-content: center;
+  
+  
+  
+  
+}
+.extra-details{
+  font-size: 22px;
+  width: 600px;
+  text-align: center;
+}
+.span-words{
+  font-weight: bolder;
+  
+}
+.last-page{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.extra-detailstwo{
+  font-size: 22px;
+  width: 418px;
+  text-align: center;
+}
+.extra-detailsthree{
+  width: 600px;
+  font-size: 22px;
+  text-align: center;
+  
+}
+.smp-btn-two{
+  display: flex;
+  flex-direction: row;
+
+  background-color: rgb(252, 207, 6);
+ 
+  color:black;
+  
+ 
+  border: none;
+  border-radius: 50px;
+  font-size: 22px;
+  padding: 10px 20px;
+  transition: 0.35s;
+  
+}
+.sec-btn-div{
+  height: 36px;
+}
+.hr{
+  display: flex;
+  flex-direction: row;
+  width: 30px;
+  
+  border-bottom:solid black;
+  border-width: .5px;
+  margin-top: 15px;
+
+}
+.hrline{
+  border-style: solid;
+  border-width: 1px;
+  border-color: red;
+}
+.line{
+  font-weight: bolder;
+}
+.smp-btn-two:hover{
+  cursor: pointer;
+  padding: 12.5px 22.5px;
+}
+.btm-wrd{
+  margin-top: 10px;
+}
+  
+ 

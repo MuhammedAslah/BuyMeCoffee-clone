@@ -1,0 +1,82 @@
+.heading{
+  font-size: 60px;
+  width: 750px;
+  text-align: center;
+  line-height: 80px;
+  tab-size: 4;
+  
+  
+}
+.tag-line{
+  font-size: 22px;
+  width: 560px;
+  text-align: center;
+}
+
+.header-line{
+  display: inline-block;
+  
+  padding: -150px -40px;
+  margin-top: 50px;
+  
+
+}
+.tag-line-div{
+  display: inline-block;
+  
+}
+.fst-flex-div{
+  display: flex;
+  flex-direction: column;
+  
+  align-items: center;
+  
+  
+}
+.email-tag{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-shadow: 7px 7px 15px rgb(179, 177, 177);
+  border-radius: 50px;
+  margin-top: 30px;
+  width: 650px;
+  margin-bottom: 36px;
+}
+.com-email{
+  font-size: 22px;
+  padding-left: 10px;
+  font-weight: bolder;
+}
+.email{
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+}
+.smp-btn{
+ 
+  background-color: rgb(252, 207, 6);
+  margin-right: 20px;
+  color:black;
+  font-weight: bold;
+  border: none;
+  border-radius: 50px;
+  font-size: 22px;
+  padding: 10px 20px;
+  transition: 0.35s;
+  
+}
+.smp-btn:hover{
+  cursor: pointer;
+  padding: 12.5px 22.5px;
+}
+.head-div{
+ 
+  display: block;
+  background-color: rgb(236, 232, 232);
+  padding-bottom: 150px;
+  
+}
+.btm-line{
+  margin-bottom: 36px;
+}

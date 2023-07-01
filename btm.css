@@ -1,0 +1,24 @@
+.yt{
+  width: 36px;
+}
+.tw{
+  width: 36px;
+}
+.right-footer{
+  vertical-align: middle;
+  margin-right: 30px;
+}
+.bmc-cr{
+  display: inline-block;
+}
+.left-footer{
+  display: inline-block;
+  margin-left: 36px;
+}
+.footer-div{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: -100px;
+}
